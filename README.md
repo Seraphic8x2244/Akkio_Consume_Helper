@@ -1,6 +1,12 @@
 # Akkio's Consume Helper
 
 **Version 1.1.3** - Advanced buff and consumable tracking addon for World of Warcraft turtle (1.12)
+Revenga's Edits:
+- Folded Blasted Lands buffs and Zanza into the "Flasks" header.
+- Re-ordered the elixirs section into buff types: AGI, STR, AP, Tanks, Spell
+- Added Elixir of Demonslaying support
+- Removed "Special Potions" section
+- Added Juju Flurry into combat potions section
 
 ## 🎉 NEW IN VERSION 1.1.3 - TURTLE WOW CONSUMABLES EXPANSION
 
